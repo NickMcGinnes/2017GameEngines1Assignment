@@ -163,11 +163,6 @@ shared_ptr<PhysicsController> Assignment::CreateAnimal(glm::vec3 pos, float scal
 	return body;
 }
 
-shared_ptr<PhysicsController> CreateMan(glm::vec3 pos, float scale)
-{
-	
-}
-
 void Assignment::MoveAnimal()
 {
 	
